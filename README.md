@@ -37,7 +37,7 @@ A powerful deep learning model for automated mammography analysis using Convolut
 git clone https://github.com/yourusername/mammography-analysis.git
 cd mammography-analysis
 pip install -r requirements.txt
-```
+
 Folder:
 Mammography/
 ├── training/
@@ -48,6 +48,7 @@ Mammography/
 │       ├── annotation1.dcm
 │       └── annotation2.dcm
 └── results/
+```
 
 mkdir -p Mammography/training/images
 mkdir -p Mammography/training/annotations
